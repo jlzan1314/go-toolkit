@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
+	"github.com/jlzan1314/go-toolkit/period_job"
 	"github.com/mylxsw/container"
-	"github.com/mylxsw/go-toolkit/period_job"
 )
 
 type DemoJob struct {

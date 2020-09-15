@@ -8,8 +8,8 @@ import (
 	"regexp"
 	"time"
 
-	"github.com/mylxsw/go-toolkit/file"
-	"github.com/mylxsw/go-toolkit/pidfile"
+	"github.com/jlzan1314/go-toolkit/file"
+	"github.com/jlzan1314/go-toolkit/pidfile"
 	"gopkg.in/ini.v1"
 )
 

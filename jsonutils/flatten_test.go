@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/mylxsw/go-toolkit/jsonutils"
+	"github.com/jlzan1314/go-toolkit/jsonutils"
 )
 
 var message1 = `{

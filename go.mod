@@ -1,4 +1,4 @@
-module github.com/mylxsw/go-toolkit
+module github.com/jlzan1314/go-toolkit
 
 require (
 	github.com/buger/jsonparser v0.0.0-20181115193947-bf1c66bbce23

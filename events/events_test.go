@@ -3,7 +3,7 @@ package events_test
 import (
 	"testing"
 
-	"github.com/mylxsw/go-toolkit/events"
+	"github.com/jlzan1314/go-toolkit/events"
 )
 
 type UserCreatedEvent struct {
