@@ -14,7 +14,8 @@ type Encoder struct {
 }
 
 func NewEncoder(secret string) *Encoder {
-	return &Encoder{Secret: secret}
+	m := make(map[string]string)
+	return &Encoder{Secret: secret, Params: m}
 }
 
 func (e *Encoder) Add(k string, v string) {
