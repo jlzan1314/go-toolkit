@@ -15,5 +15,5 @@ func TodayEnd() time.Time {
 }
 
 func Tomorrow() time.Time {
-	return Today().Add(1 * time.Hour * 24)
+	return Today().Add(time.Hour * 24)
 }
